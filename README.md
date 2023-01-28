@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click to reach solution](https://luminous-chimera-5728f4.netlify.app/)
-- Live Site URL: [Click to reach live site](https://www.frontendmentor.io/solutions/responsive-landing-page-css-flexbox-Tl-g_12KWV)
+- Solution URL: [Click to reach solution](https://www.frontendmentor.io/solutions/responsive-landing-page-css-flexbox-Tl-g_12KWV)
+- Live Site URL: [Click to reach live site](https://luminous-chimera-5728f4.netlify.app/)
 
 ## My process
 
